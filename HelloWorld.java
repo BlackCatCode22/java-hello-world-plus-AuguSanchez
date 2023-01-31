@@ -11,7 +11,7 @@
 
 import java.util.Scanner;
 
-public class HelloWorld {
+ class HelloWorld {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 //Program asking for name.
